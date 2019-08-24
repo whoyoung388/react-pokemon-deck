@@ -1,3 +1,7 @@
+.Pokedex {
+  text-align: center;
+}
+
 .Pokedex-cards {
   display: flex;
   flex-wrap: wrap;
@@ -5,9 +9,9 @@
 }
 
 .Pokedex-win {
-  color: green;
+  color: #4caf50;
 }
 
 .Pokedex-loss {
-  color: red;
+  color: #e91e63;
 }
